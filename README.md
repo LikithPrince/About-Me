@@ -14,7 +14,7 @@
 
 - 💻 Check my Projects and other Repos [HERE.](https://github.com/LikithPrince/)
 
-- 👨‍💻 In Process **IBM ML and Full Stack DataScience certificates.** 
+
 
 
 
